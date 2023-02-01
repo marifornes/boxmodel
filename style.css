@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+article {
+    width: 300px;
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 30px;
+    border: 8px solid black;
+}
+
+nav {
+    background-color: aqua;
+}
+
+nav > a {
+    background-color: aquamarine;
+    font-size:40px;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    display: inline-block;
+}
+
+h1{
+    padding: 30 px 20px 20px;
+    background-color: palevioletred;
+}
